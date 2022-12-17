@@ -1,0 +1,28 @@
+.page-header {
+	background: #6f0700 ;
+	color: #fff;
+}
+
+.page-footer {
+	background: #141414;
+	color: #fff;
+}
+
+.raiting_color{
+	color: #250479;
+}
+
+.main_box{
+	background: url(../img/block5.jpg) no-repeat;
+	width: 80%;
+	min-height: 1010px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
